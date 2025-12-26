@@ -166,7 +166,7 @@ These datasets are included **only for experimental reproducibility** and academ
 If you find this work useful, please consider citing our paper:
 
 ```bibtex
-@article{TEGTSNet,
+@article{
   title   = {TEG-TSNet: Tensor-Evolving Graph with Temporal Separation Network for Spatiotemporal Forecasting},
   author  = {Anonymous},
   journal = {Under Review},
@@ -182,6 +182,4 @@ For questions or issues, please open an issue in this repository.
 
 ---
 
-
-你只需要告诉我：**你这篇主要投哪里？**
 
